@@ -1,0 +1,30 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "A template for a local Express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michihodges/express-server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "server",
+    "michihodges"
+  ],
+  "author": "michihodges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michihodges/express-server/issues"
+  },
+  "homepage": "https://github.com/michihodges/express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
